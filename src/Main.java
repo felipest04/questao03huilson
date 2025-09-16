@@ -6,7 +6,6 @@ import java.util.List;
 public class Main {
 
     /*
-    * Dito pelo ChatGPT:
 
 A solução envolve a criação de uma função para buscar pessoas pelo nome no banco de dados usando JDBC e SQL.
 
